@@ -1,4 +1,4 @@
-# Network Traffic Anomaly Detection with Explainable AI 🛡️
+# Network Traffic Anomaly Detection with Explainable AI
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2-red.svg)](https://pytorch.org/)
