@@ -47,7 +47,7 @@ This repository contains a comprehensive implementation of a **network traffic a
 ## 📁 Project Structure
 
 ```
-TFM/
+/
 ├── DATASET-1/                       # TII-SSRC-23 IoT Dataset (420K samples)
 │   ├── csv/                         # Data processed by attack type
 │   │   ├── Audio.csv               # Audio multimedia traffic
