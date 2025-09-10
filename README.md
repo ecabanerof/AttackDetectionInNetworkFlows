@@ -111,8 +111,8 @@ This repository contains a comprehensive implementation of a **network traffic a
 - **Anaconda/Miniconda** installed
 - **Python 3.9+**
 - **16GB RAM** minimum (64GB recommended)
-- **50GB** free disk space
-- **NVIDIA 4080 ** minimum (NVIDIA H100) 
+- **100GB** free disk space
+- **NVIDIA 4080** minimum (NVIDIA H100) 
 
 ### Quick Installation with Conda
 
